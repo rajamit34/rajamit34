@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajamit34
 - 👀 I’m interested in Machine Learning and Artificial Inteligence
 - 🌱 I’m currently learning Data Science
-- 📫 How to reach me ...
+- 📫 How to reach me raj.amit34@gmail.com
 
 <!---
 rajamit34/rajamit34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
